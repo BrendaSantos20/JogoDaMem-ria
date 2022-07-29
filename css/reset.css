@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Press start';
+    src: url(/fontes/press_start_2p/PressStart2P.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    border: none;
+    font-family: 'Press start', cursive;
+}
